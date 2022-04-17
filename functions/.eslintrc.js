@@ -29,5 +29,7 @@ module.exports = {
     "import/no-unresolved": 0,
     "object-curly-spacing": 0,
     "indent": 0,
+    "padded-blocks": 0,
+    "no-explicit-any": 0,
   },
 };
