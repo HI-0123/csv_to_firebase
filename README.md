@@ -1,2 +1,2 @@
 # csv_to_firebase
-CSVをFirebaseに登録する
+CSVをFireStoreに登録する
